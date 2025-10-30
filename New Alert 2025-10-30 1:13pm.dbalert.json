@@ -1,0 +1,11 @@
+{
+  "evaluation": {
+    "source": {},
+    "comparison_operator": "EQUAL",
+    "threshold": {},
+    "notification": {
+      "retrigger_seconds": 0,
+      "notify_on_ok": false
+    }
+  }
+}
